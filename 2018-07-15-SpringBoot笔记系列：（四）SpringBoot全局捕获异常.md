@@ -65,4 +65,4 @@ public class GlobalExceptionHandle {
 
 这样在系统中一旦出现RuntimeException异常时，系统将执行全局异常处理，将处理后的数据返回给客户端。
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

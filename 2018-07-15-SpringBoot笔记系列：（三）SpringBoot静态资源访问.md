@@ -35,4 +35,4 @@ Spring Boot默认提供静态资源目录位置需置于classpath下，目录名
 1. 动静分离---后台服务与前台页面,图片分开部署
 2. 静态资源使用CDN加速增强访问速度
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

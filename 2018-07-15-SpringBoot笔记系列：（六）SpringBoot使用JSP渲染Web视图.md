@@ -103,4 +103,4 @@ IntelliJ IDEA没有将 <scope>provided</scope> 的依赖注入到类路径中,�
 
 ![mvn spring-boot:run](./image/2018-07-15-SpringBoot笔记系列：（六）SpringBoot使用JSP渲染Web视图/1.jpg)
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

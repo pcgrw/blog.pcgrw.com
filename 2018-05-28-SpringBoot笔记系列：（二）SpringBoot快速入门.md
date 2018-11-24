@@ -183,4 +183,4 @@ public class App {
 
 [查看源码](https://github.com/pcstartop/springboot/tree/master/springboot-helloworld)  
 
-[SpringBoot笔记系列目录](e0c584e.html)  
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

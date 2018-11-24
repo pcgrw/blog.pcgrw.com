@@ -103,5 +103,4 @@ date: 2018-07-15 21:25:24
     
     ```
 
-[SpringBoot笔记系列目录](e0c584e.html)
-
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

@@ -207,4 +207,4 @@ public interface Test1Mapper {
 
 4.service,controller,启动类保持不变
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

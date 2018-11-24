@@ -39,4 +39,4 @@ Spring Boot让我们的Spring应用变的更轻量化。比如：你可以仅仅
 1. Java1.8及以上
 2. Spring Framework 4.1.5及以上
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)

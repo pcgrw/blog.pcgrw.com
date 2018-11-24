@@ -132,4 +132,4 @@ ${user}
 </html>
 ```
 
-[SpringBoot笔记系列目录](e0c584e.html)
+[SpringBoot笔记系列目录](./2018-05-28-SpringBoot笔记系列目录.md)
