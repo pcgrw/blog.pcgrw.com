@@ -30,7 +30,7 @@ Java中的private、protected、public和default的区别
 
 下表为Java访问控制符的含义和使用情况:
 
--|类内部|本包|子类|外部包
+限定词|类内部|本包|子类|外部包
 ---|---|---|---|---
 public    | √ | √ | √ | √
 protected | √ | √ | √ | ×
