@@ -1,6 +1,6 @@
 ---
 
-title: 2018-11-26-ubuntu下svn服务器搭建教程
+title: ubuntu下svn服务器搭建教程
 
 categories:
 
